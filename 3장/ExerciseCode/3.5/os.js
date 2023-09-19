@@ -12,7 +12,7 @@ console.log("경로----------------------------------- ");
 console.log("os.homedir(): ", os.homedir());
 console.log("os.tmpdir(): ", os.tmpdir());
 
-console.log("cpu 정보-----------------------------------");
+console.log("cpu 정보---------------------------------");
 console.log("os.cpus(): ", os.cpus());
 console.log("os.cpus().length: ", os.cpus().length);
 
