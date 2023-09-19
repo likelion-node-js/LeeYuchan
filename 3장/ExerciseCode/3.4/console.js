@@ -4,7 +4,7 @@ const boolean = true;
 const obj = {
   outside: {
     inside: {
-      key: "value",
+      key: 'value',
     },
   },
 };
